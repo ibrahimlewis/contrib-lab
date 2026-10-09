@@ -9,3 +9,4 @@
 - note 17: names follow the directory layout (2026-10-09T23:27:14)
 - note 19: keep the documented order (2026-10-09T23:27:29)
 - note 21: temporary notes are pruned weekly (2026-10-09T23:27:45)
+- note 23: paths in examples stay relative (2026-10-09T23:27:59)
