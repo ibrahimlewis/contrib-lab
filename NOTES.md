@@ -1,2 +1,3 @@
 - note 1: temporary notes are pruned weekly (2026-10-09T23:25:11)
 - note 3: keep the titles in sentence case (2026-10-09T23:25:26)
+- note 5: keep the documented order (2026-10-09T23:25:41)
