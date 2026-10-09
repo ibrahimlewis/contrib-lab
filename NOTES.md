@@ -6,3 +6,4 @@
 - note 11: line length follows the editor config (2026-10-09T23:26:24)
 - note 13: line length follows the editor config (2026-10-09T23:26:41)
 - note 15: review notes before tagging (2026-10-09T23:26:59)
+- note 17: names follow the directory layout (2026-10-09T23:27:14)
