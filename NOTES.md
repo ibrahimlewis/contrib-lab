@@ -11,3 +11,4 @@
 - note 21: temporary notes are pruned weekly (2026-10-09T23:27:45)
 - note 23: paths in examples stay relative (2026-10-09T23:27:59)
 - note 25: the retry section mirrors the code (2026-10-09T23:28:14)
+- note 27: the sample command stays copy-pasteable (2026-10-09T23:28:29)
