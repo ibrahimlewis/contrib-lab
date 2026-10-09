@@ -5,3 +5,4 @@
 - note 9: the checklist mirrors the test matrix (2026-10-09T23:26:10)
 - note 11: line length follows the editor config (2026-10-09T23:26:24)
 - note 13: line length follows the editor config (2026-10-09T23:26:41)
+- note 15: review notes before tagging (2026-10-09T23:26:59)
