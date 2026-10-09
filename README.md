@@ -1,6 +1,6 @@
 # contrib-lab
 
-Notes and checklists kept next to the code so reviews stay quick.
+A tiny bench for docs wording, release notes and checklists.
 
 ## Notes
 
