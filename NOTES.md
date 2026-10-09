@@ -1,0 +1,1 @@
+- note 1: temporary notes are pruned weekly (2026-10-09T23:25:11)
