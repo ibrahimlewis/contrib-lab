@@ -2,3 +2,4 @@
 - note 3: keep the titles in sentence case (2026-10-09T23:25:26)
 - note 5: keep the documented order (2026-10-09T23:25:41)
 - note 7: the sample command stays copy-pasteable (2026-10-09T23:25:56)
+- note 9: the checklist mirrors the test matrix (2026-10-09T23:26:10)
